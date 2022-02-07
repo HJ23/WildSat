@@ -1,0 +1,9 @@
+netCDF4
+pandas
+numpy
+torchvision
+pytorch
+scikit
+opencv
+gdown
+kaggle
